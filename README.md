@@ -1,5 +1,15 @@
-## Hi there 👋
+<div>
+    <a target='_blank' href="https://instagram.com/mrlptrc">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/murilo-patricio">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
+
+## Hello there 👋
+Welcome to my profile, i'm glad that you are here. I will try to explain more about myself in this readme file.
 <!--
 **mrlptrc/mrlptrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
