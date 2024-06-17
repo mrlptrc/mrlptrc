@@ -30,6 +30,15 @@ My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal 
 * I currently have a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment. Today I just did the same he did for me in the past to any people that asks me for help;
 * I really like to help people and learn random things.
 
+## Portfolio
+
+* I'm currently building a web application to show my projects, otherwise you can check my projects by the pinning repositorys in my github's profile.
+
+<div>
+        <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)">
+
+</div>
+
 <!--
 **mrlptrc/mrlptrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
