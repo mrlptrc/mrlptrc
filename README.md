@@ -32,7 +32,7 @@ My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal 
 
 ## Portfolio
 
-* I'm currently building a web application to show my projects, otherwise you can check my projects by the pinning repositorys in my github's profile.
+* I'm currently building a web application to show my projects, otherwise you can check my projects by the pinned repositorys in my github's profile.
 
 <div>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
