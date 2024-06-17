@@ -35,7 +35,8 @@ My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal 
 * I'm currently building a web application to show my projects, otherwise you can check my projects by the pinning repositorys in my github's profile.
 
 <div>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
 
