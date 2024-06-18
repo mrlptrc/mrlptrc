@@ -11,11 +11,11 @@
 ## Hello there 👋
 Welcome to my profile, i'm glad that you are here. I will try to explain more about myself in this readme file.
 
-## Public Information 
+## Public Information 🙋‍♂️
 My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal is help people around the world with my hard/soft skills. I love contribute/create open-source projects and share my coding knowledge with people.   
 
 
-## Detailed information
+## Detailed information 📄
 
 * **Name**: Murilo Patrício
 * **Age**: 19
@@ -23,17 +23,18 @@ My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal 
 * **Learning**: AWS and Databases
 * **University**: Senac University. Systems Analysis and Development, 4th Semester
 
-## Curiosities about me
+## Curiosities about me 💁‍♂️
 
 * I won a chess interclass competition during my childhood, finishing in 1st place.
 * I had my first contact with coding in 2016 using **Java**, switching lines and doing the "try/error" approach on a **Minecraft Server** gamemode only to see if something changes in game;
 * I currently have a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment. Today I just did the same he did for me in the past to any people that asks me for help;
 * I really like to help people and learn random things.
 
-## Portfolio
+## Portfolio ✨
 
 * I'm currently building a web application to show my projects, otherwise you can check my projects by the pinned repositorys in my github's profile.
 
+## Stacks 💻
 <div>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
