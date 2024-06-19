@@ -9,7 +9,7 @@
 
 
 ## Hello there 👋
-Welcome to my profile, i'm glad that you are here. I will try to explain more about myself in this readme file.
+Welcome to my profile, i'm glad that you are here. I will try to explain more about myself in this lil' readme file.
 
 ## Public Information 🙋‍♂️
 My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal is help people around the world with my hard/soft skills. I love contribute/create open-source projects and share my coding knowledge with people.   
