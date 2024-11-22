@@ -9,7 +9,7 @@ My name is Murilo Patrício. I currently live in São Paulo, Brazil and my goal 
 ## Detailed information 📄
 
 * **Name**: Murilo Patrício
-* **Age**: 19
+* **Age**: 20
 * **Living in**: São Paulo - SP, Brazil
 * **Learning**: AWS and Databases
 * **University**: Senac University. Systems Analysis and Development, 4th Semester
