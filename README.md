@@ -1,7 +1,7 @@
 # oi, eu sou o Murilo 👋
 
 Desenvolvedor fullstack de 21 anos, São Paulo 🇧🇷  
-Apaixonado por construir coisas que realmente funcionam — e que as pessoas notem.  
+Apaixonado por construir coisas que realmente funcionam e que as pessoas notem.  
 Atualmente trabalhando com **automação de processos** e sempre buscando agregar valor com o que entrego.
 
 ---
