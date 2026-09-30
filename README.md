@@ -2,7 +2,7 @@
 
 Full-stack developer from São Paulo, Brazil, focused on building reliable applications and automating processes that create real value.
 
-I enjoy working across the stack — from user interfaces and APIs to distributed systems, integrations, and infrastructure. I am currently studying Software Engineering and exploring practical applications of AI.
+I enjoy working across the stack from user interfaces and APIs to distributed systems, integrations, and infrastructure. I am currently studying Software Engineering and exploring practical applications of AI.
 
 ## What I work with
 
